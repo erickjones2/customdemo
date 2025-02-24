@@ -1,4 +1,4 @@
-class Test
+class Customer
 {
     public static void main(String[] args)
     {
